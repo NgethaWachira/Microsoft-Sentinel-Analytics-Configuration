@@ -1,0 +1,1 @@
+# Microsoft-Sentinel-Analytics-Configuration
