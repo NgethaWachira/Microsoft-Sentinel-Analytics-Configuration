@@ -2,19 +2,19 @@
 A step by step guide for setting up and managing analytics rules in Microsoft Sentinel. It covers configuring fusion analytics, creating custom rules with Kusto Query Language (KQL), and automating responses to security incidents. It also explains how to monitor real-time events, integrate external data sources like Cisco Umbrella, use watchlists to correlate data, and incorporate threat intelligence. The main goal is to help users effectively detect and manage security threats in their environment using Microsoft Sentinel’s features.
 
 ## Skills learned
-Microsoft Sentinel Configuration: Navigating and configuring Microsoft Sentinel, including setting up and managing analytics rules.
+- configuring Microsoft Sentinel, including setting up and managing analytics rules.
 
-Utilize Fusion Analytics and SOAR: Configuring and managing fusion analytics and automating responses using Security Orchestration, Automation, and Response (SOAR).
+- Configuring and managing fusion analytics and automating responses using Security Orchestration, Automation, and Response (SOAR).
 
-Writing Kusto Query Language (KQL): Writing and editing KQL queries for custom analytics rules, including real-time event monitoring and incident detection.
+- Writing and editing Kusto Query Language (KQL) queries for custom analytics rules, including real-time event monitoring and incident detection.
 
-Rule Creation and Customization: Creating and modifying scheduled and near-real-time analytics rules to monitor security events like sign-in attempts and generate alerts.
+- Creating and modifying scheduled and near-real-time analytics rules to monitor security events like sign-in attempts and generate alerts.
 
-Content Hub Management: Managing and integrating analytics rules through Microsoft Sentinel’s Content Hub and adding third-party rules like Cisco Umbrella.
+- Managing and integrating analytics rules through Microsoft Sentinel’s Content Hub and adding third-party rules like Cisco Umbrella.
 
-Create and Manage Watchlists: Creating, managing, and utilizing watchlists in Sentinel to correlate data and trigger alerts.
+- Creating, managing, and utilizing watchlists in Sentinel to correlate data and trigger alerts.
 
-Threat Intelligence Integration: Configuring and using threat intelligence data, like PulseFeed, for enhanced threat management and incident detection.
+- Threat Intelligence Integration: Configuring and using threat intelligence data, like PulseFeed, for enhanced threat management and incident detection.
 
 ## Tools Used
 <div>
